@@ -15,8 +15,9 @@ This repository is organized using a **monorepo structure**, allowing for effici
 
 The repository may contain subfolders for each technology, structured as follows:
 
-techtree-practice-hub/
-├── \_\_-prac/
+techtree-practice-hub
+
+├── \_\_-prac
 
 Each folder contains code, configuration files, and documentation for specific practice exercises.
 
